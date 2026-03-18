@@ -1,0 +1,18 @@
+{
+  "name": "FISI Lernapp",
+  "identifier": "dev.freshfoxyhd.fisi-lernapp.source",
+  "sourceURL": "https://raw.githubusercontent.com/FreshFoxyHD/fisi-lernapp-releases/main/apps.json",
+  "apps": [
+    {
+      "name": "FISI Lernapp",
+      "bundleIdentifier": "dev.freshfoxyhd.fisi_lernapp",
+      "developerName": "FreshFoxyHD",
+      "subtitle": "IHK Abschlussprüfungs-Trainer FISI",
+      "localizedDescription": "🎓 Lern-App für die IHK Abschlussprüfung – Fachinformatiker Systemintegration (NRW)\n\n📚 LERNINHALT:\n• 🌐 Netzwerktechnik: CIDR, VLANs, DNS, DHCP, Routing, Firewalls\n• 🔒 IT-Sicherheit & DSGVO: CIA-Triade, TLS/SSL, X.509, Zero-Trust\n• 💾 Storage & RAID: RAID 0/1/5/6/10, Backup-Strategien, SAN/NAS\n• ☁️ Virtualisierung & Cloud: Hypervisor Typ 1/2, IaaS/PaaS/SaaS\n• 💻 Programmierung: C#, SQL, Fehlertypen, Arrays\n• 📊 WiSo: Arbeitsrecht, Sozialversicherung, Unternehmensformen\n• 📧 E-Mail: SMTP/IMAP, DKIM, SPF, Spam vs. Phishing\n• 📱 MDM & Lizenzierung: BYOD, User-/Device-CAL\n\n✨ FEATURES:\n• 190+ Lernkarten mit Flip-Animation\n• 105+ Quiz-Fragen mit Erklärungen\n• Prüfungssimulation (30 Fragen, 30 Min Timer)\n• Fortschritts-Tracking pro Thema\n• Tages-Streak für tägliche Motivation\n• Dunkles Design",
+      "iconURL": "https://raw.githubusercontent.com/FreshFoxyHD/fisi-lernapp-releases/main/icon.png",
+      "tintColor": "1A73E8",
+      "screenshotURLs": [],
+      "versions": []
+    }
+  ]
+}
