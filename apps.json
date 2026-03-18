@@ -13,6 +13,14 @@
       "tintColor": "1A73E8",
       "versions": [
         {
+          "version": "1.0.5",
+          "date": "2026-03-18",
+          "localizedDescription": "FISI Lernapp v1.0.5",
+          "downloadURL": "https://github.com/FreshFoxyHD/fisi-lernapp-releases/releases/download/v1.0.5/FISILernapp-v1.0.5.ipa",
+          "size": 6937284,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "1.0.4",
           "date": "2026-03-18",
           "localizedDescription": "FISI Lernapp v1.0.4",
