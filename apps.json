@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "FISI Lernapp",
-      "bundleIdentifier": "dev.freshfoxyhd.fisi_lernapp",
+      "bundleIdentifier": "dev.freshfoxyhd.fisiLernapp",
       "developerName": "FreshFoxyHD",
       "subtitle": "IHK Abschlussprüfungs-Trainer FISI",
       "localizedDescription": "Lern-App für die IHK Abschlussprüfung als Fachinformatiker für Systemintegration.\n\nThemen: Netzwerktechnik, IT-Sicherheit, DSGVO, Storage & RAID, Virtualisierung, Cloud, Programmierung, WiSo, E-Mail, MDM.",
@@ -18,14 +18,6 @@
           "localizedDescription": "FISI Lernapp v1.0.4",
           "downloadURL": "https://github.com/FreshFoxyHD/fisi-lernapp-releases/releases/download/v1.0.4/FISILernapp-v1.0.4.ipa",
           "size": 6937284,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.0.3",
-          "date": "2026-03-18",
-          "localizedDescription": "FISI Lernapp v1.0.3",
-          "downloadURL": "https://github.com/FreshFoxyHD/fisi-lernapp-releases/releases/download/v1.0.3/FISILernapp-v1.0.3.ipa",
-          "size": 520,
           "minOSVersion": "14.0"
         }
       ]
