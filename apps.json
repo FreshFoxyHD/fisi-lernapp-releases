@@ -11,32 +11,7 @@
       "localizedDescription": "Lern-App für die IHK Abschlussprüfung als Fachinformatiker für Systemintegration.\n\nThemen: Netzwerktechnik, IT-Sicherheit, DSGVO, Storage & RAID, Virtualisierung, Cloud, Programmierung, WiSo, E-Mail, MDM.",
       "iconURL": "https://raw.githubusercontent.com/FreshFoxyHD/fisi-lernapp-releases/main/icon.png",
       "tintColor": "1A73E8",
-      "versions": [
-        {
-          "version": "1.0.2",
-          "date": "2026-03-18",
-          "localizedDescription": "FISI Lernapp v1.0.2",
-          "downloadURL": "https://github.com/FreshFoxyHD/fisi-lernapp-releases/releases/download/v1.0.2/FISILernapp-v1.0.2.ipa",
-          "size": 520,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.0.2",
-          "date": "2026-03-18",
-          "localizedDescription": "FISI Lernapp v1.0.2",
-          "downloadURL": "https://github.com/FreshFoxyHD/fisi-lernapp-releases/releases/download/v1.0.2/FISILernapp-v1.0.2.ipa",
-          "size": 520,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.0.1",
-          "date": "2026-03-18",
-          "localizedDescription": "FISI Lernapp v1.0.1",
-          "downloadURL": "https://github.com/FreshFoxyHD/fisi-lernapp-releases/releases/download/v1.0.1/FISILernapp-v1.0.1.ipa",
-          "size": 520,
-          "minOSVersion": "14.0"
-        }
-      ]
+      "versions": []
     }
   ]
 }
